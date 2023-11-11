@@ -4,7 +4,7 @@ window.settings = {
   // 站点描述
   description: '本站为私人分享站点，不开放注册',
   // API
-  host: 'https://zai.su',
+  host: 'http://zai.su',
   // 主题
   theme: {
     sidebar: 'light',
